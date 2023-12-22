@@ -5,11 +5,11 @@ Entrambi i lavori sono stati svolti in collaborazione con altri tre colleghi.
 Il primo progetto "S1Project" riguarda lo studio delle concentrazioni di PM10 presenti nell'aria in funzione delle variabili atmosferiche e delle concentrazini di Ozono. Le misurazoni a disposizione (dataset "G27") sono state rilevate nelle città di Bergamo e di Morbegno.
 Per entrambe le stazioni si è cercato un modello statistcio che potesse prevedere in modo significativo le concentrazioni di PM10 in funzione delle altre covariate a disposizione; per farlo è stato utilizzato il comando "stepwiselm" e la funzione "fitlm" di Matlab e sono stati condotti dei ragionamnenti basati sulla significatività delle covariate con lo scopo di trovare per ciascuna stazione il modello migliore possibile.
 E' stato sviluppato anche un confronto tra i due modelli sulla base di: 
-➢ covariate;
-➢ coefficiente di determinazione multipla;
-➢ p-value del modello;
-➢ valutazione dei residui;
-➢ grafico delle interpolate.
+- covariate;
+- coefficiente di determinazione multipla;
+- p-value del modello;
+- valutazione dei residui;
+- grafico delle interpolate.
 Nella repository è stato inserito il documento "S1Report" contenente una spiegazione dettagliata dle progetto e dei risultati ottenuti.
 
 Il secondo progetto "S2Project" riguarda lo studio di un dataset fornito durante il corso di Statistica 2 contenente dati metereologici raccolti da uan stazione meteo mobile INAIL.
