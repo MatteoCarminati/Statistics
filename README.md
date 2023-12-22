@@ -28,11 +28,11 @@ Measurements from the "G27" dataset were taken in the cities of Bergamo and Morb
 For both stations, a statistical model predicting PM10 concentrations was created. 
 The "stepwiselm" command and the "fitlm" function of Matlab were used, and reasoning based on the significance of covariates was conducted to find the best model for each station. 
 A comparison between the two models was also conducted based on:
-➢ covariates;
-➢ multiple determination coefficient;
-➢ model p-value;
-➢ residuals evaluation;
-➢ interpolation graphs. 
+- covariates;
+- multiple determination coefficient;
+- model p-value;
+- residuals evaluation;
+- interpolation graphs. 
 The repository contains the "S1Report" document with a detailed explanation of the project and results obtained.
 
 The second project, named "S2Project," involves the study of a dataset provided during the Statistics 2 course containing meteorological data collected by an INAIL mobile weather station. 
